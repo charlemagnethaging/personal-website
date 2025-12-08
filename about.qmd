@@ -12,4 +12,6 @@ As a young person who has battled through addiction and mental health crises and
 
 Using kindness, transparency and dedication I believe we can make this planet a place where everyone can live with dignity, comfort and joy!
 
-Check out my 
+Check out my [Projects](projects.qmd) page to see what I have worked on.
+
+Check out my [Hobbies](hobbies.qmd) page to see what I do for fun.

@@ -25,7 +25,7 @@ format:
       light: [sandstone, custom.scss]
       dark: [sandstone, custom.scss]
     css: styles.css
-    toc: true
+    toc: false
 
 
 
