@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  favicon: img/DJredscare_icon.png
   navbar:
     search: false
     left:
@@ -10,6 +11,8 @@ website:
       - projects.qmd
       - hobbies.qmd
     tools:
+      - icon: envelope
+        href: mailto:charlesskopp@gmail.com
       - icon: linkedin
         href: https://www.linkedin.com/in/charlie-kopp/
       - icon: github
@@ -17,9 +20,10 @@ website:
 
 format:
   html:
+    respect-user-color-scheme: true
     theme:
-      - cosmo
-      - brand
+      light: [sandstone, custom.scss]
+      dark: [sandstone, custom.scss]
     css: styles.css
     toc: true
 
