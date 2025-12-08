@@ -1,8 +1,31 @@
 ---
-title: "Hobbies"
+
 ---
 
-# Here is a list of some of my hobbies
+# Here's a list of some of my hobbies
 
-- Volleyball (beach or indoor!)
-- Dungeons & Dragons
+## Volleyball (beach or indoor!)
+
+- I have been playing since I was 11 years old. It is the best sport ever!
+- I have been coaching high-school level volleyball for the past 3 years (currently at Westside VB)
+- You might see me playing at Ocean Park in front of the Perry's!
+
+## Dungeons & Dragons
+
+- New hobby of mine, currently DMing my first ever campaign!
+- Big fan of Dropout.tv's D20 series as well as Critical Role (following Campaign IV!!)
+
+## Video Games
+
+- So many games, so little time...
+- If you want to see what I like to play, here's a link to my [backloggd](https://backloggd.com/u/chuckless/).
+
+## Cats!
+
+Here's some pictures of my lovely little (demonic) felines
+
+::: {layout-ncol=2}
+![Yoshi](img/yoshi1.jpg)
+
+![Suki](img/suki1.jpg)
+:::

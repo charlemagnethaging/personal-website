@@ -8,11 +8,12 @@ website:
     left:
       - href: about.qmd
         text: About
-      - cv.qmd
-      - projects.qmd
-      - hobbies.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: hobbies.qmd
+        text: Hobbies
     tools:
-      - icon: envelope
+      - icon: envelope-fill
         href: mailto:charlesskopp@gmail.com
       - icon: linkedin
         href: https://www.linkedin.com/in/charlie-kopp/

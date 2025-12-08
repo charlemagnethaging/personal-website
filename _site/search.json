@@ -2,50 +2,57 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "TEC-FEPPA Psychiatric Modeling",
     "section": "",
-    "text": "TEC-FEPPA Psychiatric Modeling\nWorking with two doctors as a statistician to help analyze data from clinical study of healthy patients, clinical high risk, and schizophrenic patients. Study uses [18F]FEPPA as a PET Radiotracer for brain inflammation, which is associated with schizophrenia, and a trauma experience survey as the primary potential indicator. Responsibilities involve model fitting, hypothesis testing, exploring potential sub-analyses, as well as various data-related tasks (cleaning, management, sample testing).\n\n\nRent Resilience Index\nAnalyzed 150K+ U.S. commercial real estate leases and federal unemployment data from metro-areas in a team of 5. Developed a rent resilience index to quantify market resilience to economic stressors like vacancy and unemployment. Presented findings to professional data scientists and industry leaders; selected as one of 15 finalists out of 80+ teams."
+    "text": "TEC-FEPPA Psychiatric Modeling\nWorking with two doctors as a statistician to help analyze data from clinical study of healthy patients, clinical high risk, and schizophrenic patients. Study uses [18F]FEPPA as a PET Radiotracer for brain inflammation, which is associated with schizophrenia, and a trauma experience survey as the primary potential indicator. Responsibilities involve model fitting, hypothesis testing, exploring potential sub-analyses, as well as various data-related tasks (cleaning, management, sample testing).\nResults coming soon~\n\n\nRent Resilience Index\nAnalyzed 150K+ U.S. commercial real estate leases and federal unemployment data from metro-areas in a team of 5. Developed a rent resilience index to quantify market resilience to economic stressors like vacancy and unemployment. Presented findings to professional data scientists and industry leaders; selected as one of 15 finalists out of 80+ teams in DataFest 2025.\nLink to presentation"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Charlie Kopp",
     "section": "",
-    "text": "My name’s Charlie Kopp. I am a statistics geek with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.\nI am currently studying Statistics and Data Science at UCLA, but what makes me special is my personal journey through sobriety and recovery, and experience with interpersonal communication and leadership.\nAs a young person who has battled through addiction and mental health crises and emerged on the other side with a newfound appreciation for life, my hope is to use my quantitative skills to make a positive impact on the world around me. There are more factors than ever in the world today that drive people apart and encourage isolation, however there are equivalent resources and technologies that can counter this crisis.\nUsing kindness, transparency and dedication I believe we can make this planet a place where everyone can live with dignity, comfort and joy!"
-  },
-  {
-    "objectID": "hobbies.html",
-    "href": "hobbies.html",
-    "title": "Hobbies",
-    "section": "",
-    "text": "Here is a list of some of my hobbies\n\nVolleyball (beach or indoor!)\nDungeons & Dragons"
-  },
-  {
-    "objectID": "about.html#hello",
-    "href": "about.html#hello",
-    "title": "About",
-    "section": "",
-    "text": "My name’s Charlie Kopp. I am a statistics geek with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.\nI am currently studying Statistics and Data Science at UCLA, but what makes me special is my personal journey through sobriety and recovery, and experience with interpersonal communication and leadership.\nAs a young person who has battled through addiction and mental health crises and emerged on the other side with a newfound appreciation for life, my hope is to use my quantitative skills to make a positive impact on the world around me. There are more factors than ever in the world today that drive people apart and encourage isolation, however there are equivalent resources and technologies that can counter this crisis.\nUsing kindness, transparency and dedication I believe we can make this planet a place where everyone can live with dignity, comfort and joy!"
+    "text": "Hello! My name’s Charlie Kopp. I am a statistics geek with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.\nI am currently studying Statistics and Data Science at UCLA, but what makes me special is my personal journey through sobriety and recovery, and experience with interpersonal communication and leadership.\nAs a young person who has battled through addiction and mental health crises and emerged on the other side with a newfound appreciation for life, my hope is to use my quantitative skills to make a positive impact on the world around me. There are more factors than ever in the world today that drive people apart and encourage isolation, however there are equivalent resources and technologies that can counter this crisis.\nUsing kindness, transparency and dedication I believe we can make this planet a place where everyone can live with dignity, comfort and joy!"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "About",
+    "title": "Charlie Kopp",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics and Data Science | Sept 2024 - June 2026\nSanta Monica College | Santa Monica, CA A.S-T in Mathematics | Sept 2022 - June 2024"
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Statistics and Data Science | Sept 2024 - June 2026\nSanta Monica College | Santa Monica, CA\nA.S-T in Mathematics | Sept 2022 - June 2024"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "About",
+    "title": "Charlie Kopp",
     "section": "Experience",
     "text": "Experience\nCheck out my Projects page to see what I have worked on.\nCheck out my Hobbies page to see what I do for fun."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "CV"
+    "objectID": "hobbies.html#volleyball-beach-or-indoor",
+    "href": "hobbies.html#volleyball-beach-or-indoor",
+    "title": "Here’s a list of some of my hobbies",
+    "section": "Volleyball (beach or indoor!)",
+    "text": "Volleyball (beach or indoor!)\n\nI have been playing since I was 11 years old. It is the best sport ever!\nI have been coaching high-school level volleyball for the past 3 years (currently at Westside VB)\nYou might see me playing at Ocean Park in front of the Perry’s!"
+  },
+  {
+    "objectID": "hobbies.html#dungeons-dragons",
+    "href": "hobbies.html#dungeons-dragons",
+    "title": "Here’s a list of some of my hobbies",
+    "section": "Dungeons & Dragons",
+    "text": "Dungeons & Dragons\n\nNew hobby of mine, currently DMing my first ever campaign!\nBig fan of Dropout.tv’s D20 series as well as Critical Role (following Campaign IV!!)"
+  },
+  {
+    "objectID": "hobbies.html#video-games",
+    "href": "hobbies.html#video-games",
+    "title": "Here’s a list of some of my hobbies",
+    "section": "Video Games",
+    "text": "Video Games\n\nSo many games, so little time…\nIf you want to see what I like to play, here’s a link to my (backloggd)[https://backloggd.com/u/chuckless/]"
+  },
+  {
+    "objectID": "hobbies.html#cats",
+    "href": "hobbies.html#cats",
+    "title": "Here’s a list of some of my hobbies",
+    "section": "Cats!",
+    "text": "Cats!\nHere’s some pictures of my lovely little (demonic) felines\n\n\n\n\n\n\nYoshi\n\n\n\n\n\n\n\nSuki"
   }
 ]

@@ -1,15 +1,26 @@
 ---
-title: "About"
+title: "Charlie Kopp"
 image: img/house_headshot_lowres.jpg
 about:
   template: solana
   image-width: 15em
   image-shape: round
+  links:
+    - icon: envelope-fill
+      text: Email
+      href: mailto:charlesskopp@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/charlie-kopp/
+    - icon: github
+      text: GitHub
+      href:  https://github.com/charlemagnethaging
+    - icon: person-vcard-fill
+      text: Resume
+      href: files/CV_10-2025.pdf
 ---
 
-## Hello! 
-
-My name's Charlie Kopp. I am a statistics geek with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.
+Hello! My name's Charlie Kopp. I am a statistics geek with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.
 
 I am currently studying Statistics and Data Science at UCLA, but what makes me special is my personal journey through sobriety and recovery, and experience with interpersonal communication and leadership.
 
@@ -20,15 +31,14 @@ Using kindness, transparency and dedication I believe we can make this planet a 
 ## Education
 
 **University of California, Los Angeles** | Los Angeles, CA
+
 B.S in Statistics and Data Science | Sept 2024 - June 2026
 
 **Santa Monica College** | Santa Monica, CA
+
 A.S-T in Mathematics | Sept 2022 - June 2024
 
 ## Experience
-
-
-
 
 Check out my [Projects](projects.qmd) page to see what I have worked on.
 
