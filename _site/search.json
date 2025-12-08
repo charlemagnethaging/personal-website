@@ -9,7 +9,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About",
     "section": "",
     "text": "My name’s Charlie Kopp. I am a statistics geek with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.\nI am currently studying Statistics and Data Science at UCLA, but what makes me special is my personal journey through sobriety and recovery, and experience with interpersonal communication and leadership.\nAs a young person who has battled through addiction and mental health crises and emerged on the other side with a newfound appreciation for life, my hope is to use my quantitative skills to make a positive impact on the world around me. There are more factors than ever in the world today that drive people apart and encourage isolation, however there are equivalent resources and technologies that can counter this crisis.\nUsing kindness, transparency and dedication I believe we can make this planet a place where everyone can live with dignity, comfort and joy!"
   },
@@ -23,22 +23,29 @@
   {
     "objectID": "about.html#hello",
     "href": "about.html#hello",
-    "title": "About Me",
+    "title": "About",
     "section": "",
     "text": "My name’s Charlie Kopp. I am a statistics geek with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.\nI am currently studying Statistics and Data Science at UCLA, but what makes me special is my personal journey through sobriety and recovery, and experience with interpersonal communication and leadership.\nAs a young person who has battled through addiction and mental health crises and emerged on the other side with a newfound appreciation for life, my hope is to use my quantitative skills to make a positive impact on the world around me. There are more factors than ever in the world today that drive people apart and encourage isolation, however there are equivalent resources and technologies that can counter this crisis.\nUsing kindness, transparency and dedication I believe we can make this planet a place where everyone can live with dignity, comfort and joy!"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "About Me",
+    "title": "About",
     "section": "Education",
     "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics and Data Science | Sept 2024 - June 2026\nSanta Monica College | Santa Monica, CA A.S-T in Mathematics | Sept 2022 - June 2024"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "About Me",
+    "title": "About",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\nCheck out my Projects page to see what I have worked on.\nCheck out my Hobbies page to see what I do for fun."
+    "text": "Experience\nCheck out my Projects page to see what I have worked on.\nCheck out my Hobbies page to see what I do for fun."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV"
   }
 ]

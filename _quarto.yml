@@ -8,7 +8,7 @@ website:
     left:
       - href: about.qmd
         text: About
-      - CV.qmd
+      - cv.qmd
       - projects.qmd
       - hobbies.qmd
     tools:
@@ -28,5 +28,6 @@ format:
     css: styles.css
     toc: false
 
-
+execute:
+  freeze: auto
 

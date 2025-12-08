@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: "About"
 image: img/house_headshot_lowres.jpg
 about:
   template: solana
@@ -19,17 +19,16 @@ Using kindness, transparency and dedication I believe we can make this planet a 
 
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA
+**University of California, Los Angeles** | Los Angeles, CA
 B.S in Statistics and Data Science | Sept 2024 - June 2026
 
-Santa Monica College | Santa Monica, CA
+**Santa Monica College** | Santa Monica, CA
 A.S-T in Mathematics | Sept 2022 - June 2024
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+
 
 Check out my [Projects](projects.qmd) page to see what I have worked on.
 
