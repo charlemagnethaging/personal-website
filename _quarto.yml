@@ -10,8 +10,8 @@ website:
       - projects.qmd
       - hobbies.qmd
     tools:
-      - icon: email
-        href: mailto:charlesskopp@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/charlie-kopp/
       - icon: github
         href:  https://github.com/charlemagnethaging
 
