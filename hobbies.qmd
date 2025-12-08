@@ -1,9 +1,3 @@
----
-
----
-
-# Here's a list of some of my hobbies
-
 ## Volleyball (beach or indoor!)
 
 - I have been playing since I was 11 years old. It is the best sport ever!
@@ -24,8 +18,12 @@
 
 Here's some pictures of my lovely little (demonic) felines
 
-::: {layout-ncol=2}
+::: {layout-nrow=2}
 ![Yoshi](img/yoshi1.jpg)
 
 ![Suki](img/suki1.jpg)
+
+![sniff](img/suki2.jpg)
+
+![AHHH](img/yoshi2.jpg)
 :::
