@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  navbar:
+    search: false
+    left:
+      - href: about.qmd
+        text: About
+      - projects.qmd
+      - hobbies.qmd
+    tools:
+      - icon: email
+        href: mailto:charlesskopp@gmail.com
+      - icon: github
+        href:  https://github.com/charlemagnethaging
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
