@@ -8,6 +8,7 @@ website:
     left:
       - href: about.qmd
         text: About
+      - CV.qmd
       - projects.qmd
       - hobbies.qmd
     tools:

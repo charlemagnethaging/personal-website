@@ -1,5 +1,10 @@
 ---
-comments: false
+title: About Me
+image: img/house_headshot_lowres.jpg
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
 ---
 
 ## Hello! 
@@ -11,6 +16,20 @@ I am currently studying Statistics and Data Science at UCLA, but what makes me s
 As a young person who has battled through addiction and mental health crises and emerged on the other side with a newfound appreciation for life, my hope is to use my quantitative skills to make a positive impact on the world around me. There are more factors than ever in the world today that drive people apart and encourage isolation, however there are equivalent resources and technologies that can counter this crisis. 
 
 Using kindness, transparency and dedication I believe we can make this planet a place where everyone can live with dignity, comfort and joy!
+
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+B.S in Statistics and Data Science | Sept 2024 - June 2026
+
+Santa Monica College | Santa Monica, CA
+A.S-T in Mathematics | Sept 2022 - June 2024
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
 
 Check out my [Projects](projects.qmd) page to see what I have worked on.
 

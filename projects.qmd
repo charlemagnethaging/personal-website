@@ -2,6 +2,10 @@
 title: "Projects"
 ---
 
-This is a Quarto website.
+# TEC-FEPPA Psychiatric Modeling
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Working with two doctors as a statistician to help analyze data from clinical study of healthy patients, clinical high risk, and schizophrenic patients. Study uses [18F]FEPPA as a PET Radiotracer for brain inflammation, which is associated with schizophrenia, and a trauma experience survey as the primary potential indicator. Responsibilities involve model fitting, hypothesis testing, exploring potential sub-analyses, as well as various data-related tasks (cleaning, management, sample testing).
+
+# Rent Resilience Index
+
+Analyzed 150K+ U.S. commercial real estate leases and federal unemployment data from metro-areas in a team of 5. Developed a rent resilience index to quantify market resilience to economic stressors like vacancy and unemployment. Presented findings to professional data scientists and industry leaders; selected as one of 15 finalists out of 80+ teams.
