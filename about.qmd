@@ -17,7 +17,7 @@ about:
       href:  https://github.com/charlemagnethaging
     - icon: person-vcard-fill
       text: Resume
-      href: files/CV_10-2025.pdf
+      href: files/Charlie_CV.pdf
 ---
 
 Hello! My name's Charlie Kopp. I am a statistics geek with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.
