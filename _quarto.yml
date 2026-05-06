@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - "files/"
 
 website:
   favicon: img/DJredscare_icon.png
@@ -31,4 +33,3 @@ format:
 
 execute:
   freeze: auto
-
