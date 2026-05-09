@@ -24,6 +24,10 @@ website:
 
 format:
   html:
+    grid:
+      body-width: 1000px  # Default is usually around 800px
+      sidebar-width: 200px
+      margin-width: 200px
     respect-user-color-scheme: true
     theme:
       light: [sandstone, custom.scss]

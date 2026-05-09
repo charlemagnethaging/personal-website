@@ -25,7 +25,35 @@
     "href": "about.html#experience",
     "title": "Charlie Kopp",
     "section": "Experience",
-    "text": "Experience\nCheck out my Projects page to see what I have worked on.\nCheck out my Hobbies page to see what I do for fun."
+    "text": "Experience\nData Science Intern | Honeit Software | Feb 2026 – present\n\nRefined and fit supervised prediction model for talent acquisition usage. Tasks include optimizing data workflow from server to local modeling environment, feature selection, model fitting and parameter interpretation.\n\nResearch Assistant | April 2025 – April 2026\n\nWorked with Dr. Yvonne Yang and Prof. Thomas Maierhofer on clinical psychiatric data investigating potential indicators of schizophrenia. Responsible for data management, visualization, model fitting, and interpretation.\n\nVolleyball Coach | Crossroads School, Westside VB | Aug 2021 – present\n\nCoach boys’ and girls’ volleyball teams as assistant and head coach. Responsible for developing and implementing training programs to improve team cohesiveness and performance."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "Charlie Kopp",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: R, RStudio, Positron, Python, VSCode, LaTeX, C++, Java, Git, CLI tools\nData: Cleaning & Formatting, NLP, Data Scraping, Visualizations, Model Fitting, Machine Learning, Pattern Recognition, Model Interpretation\nSoftware: Windows & MacOS, Notion, Obsidian, Tableau, Adobe Photoshop, Discord"
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "Charlie Kopp",
+    "section": "Projects",
+    "text": "Projects\nCheck out my Projects page to see what I have worked on."
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "Charlie Kopp",
+    "section": "Hobbies",
+    "text": "Hobbies\nCheck out my Hobbies page to see what I do for fun."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "",
+    "section": "",
+    "text": "I have been playing since I was 11 years old. It is the best sport ever!\nI have been coaching high-school level volleyball for the past 3 years (currently at Westside VB)\nYou might see me playing at Ocean Park in front of the Perry’s!"
   },
   {
     "objectID": "hobbies.html#volleyball-beach-or-indoor",
@@ -54,12 +82,5 @@
     "title": "",
     "section": "Cats!",
     "text": "Cats!\nHere’s some pictures of my lovely little (demonic) felines\n\n\n\n\n\n\nYoshi\n\n\n\n\n\n\n\nSuki\n\n\n\n\n\n\n\n\n\nsniff\n\n\n\n\n\n\n\nAHHH"
-  },
-  {
-    "objectID": "hobbies.html",
-    "href": "hobbies.html",
-    "title": "",
-    "section": "",
-    "text": "I have been playing since I was 11 years old. It is the best sport ever!\nI have been coaching high-school level volleyball for the past 3 years (currently at Westside VB)\nYou might see me playing at Ocean Park in front of the Perry’s!"
   }
 ]

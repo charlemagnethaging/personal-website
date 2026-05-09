@@ -40,6 +40,28 @@ A.S-T in Mathematics | Sept 2022 - June 2024
 
 ## Experience
 
+**Data Science Intern** | *Honeit Software* | Feb 2026 – present
+
+> Refined and fit supervised prediction model for talent acquisition usage. Tasks include optimizing data workflow from server to local modeling environment, feature selection, model fitting and parameter interpretation.
+
+**Research Assistant** | April 2025 – April 2026
+
+> Worked with Dr. Yvonne Yang and Prof. Thomas Maierhofer on clinical psychiatric data investigating potential indicators of schizophrenia. Responsible for data management, visualization, model fitting, and interpretation.
+
+**Volleyball Coach** | *Crossroads School, Westside VB* | Aug 2021 – present
+
+> Coach boys’ and girls’ volleyball teams as assistant and head coach. Responsible for developing and implementing training programs to improve team cohesiveness and performance.
+
+## Skills
+
+- **Programming**: R, RStudio, Positron, Python, VSCode, LaTeX, C++, Java, Git, CLI tools
+- **Data**: Cleaning & Formatting, NLP, Data Scraping, Visualizations, Model Fitting, Machine Learning, Pattern Recognition, Model Interpretation
+- **Software**: Windows & MacOS, Notion, Obsidian, Tableau, Adobe Photoshop, Discord
+
+## Projects
+
 Check out my [Projects](projects.qmd) page to see what I have worked on.
+
+## Hobbies
 
 Check out my [Hobbies](hobbies.qmd) page to see what I do for fun.
