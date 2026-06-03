@@ -20,11 +20,11 @@ about:
       href: /files/Charlie_CV.pdf
 ---
 
-Hello! My name's Charlie Kopp. I am a statistics geek with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.
+Hello! My name's Charlie Kopp. I am a proud nerd with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.
 
 I am currently studying Statistics and Data Science at UCLA, but what makes me special is my personal journey through sobriety and recovery, and experience with interpersonal communication and leadership.
 
-As a young person who has battled through addiction and mental health crises and emerged on the other side with a newfound appreciation for life, my hope is to use my quantitative skills to make a positive impact on the world around me. There are more factors than ever in the world today that drive people apart and encourage isolation, however there are equivalent resources and technologies that can counter this crisis. 
+I have battled through addiction and mental health crises, granting me a newfound appreciation for life after becoming sober at 19. Throughout my life I have witnessed the prevalence of technology used to drive outrage, encourage isolation, and destroy community. However, I firmly believe there exists another path where data and technology can be used to better humanity and bring us together. 
 
 Using kindness, transparency and dedication I believe we can make this planet a place where everyone can live with dignity, comfort and joy.
 
@@ -32,11 +32,11 @@ Using kindness, transparency and dedication I believe we can make this planet a 
 
 **University of California, Los Angeles** | Los Angeles, CA
 
-B.S in Statistics and Data Science | Sept 2024 - June 2026
+B.S. in Statistics and Data Science | Sept 2024 - June 2026
 
 **Santa Monica College** | Santa Monica, CA
 
-A.S-T in Mathematics | Sept 2022 - June 2024
+A.S.-T in Mathematics | Sept 2022 - June 2024
 
 ## Experience
 
@@ -46,7 +46,7 @@ A.S-T in Mathematics | Sept 2022 - June 2024
 
 **Research Assistant** | April 2025 – April 2026
 
-> Worked with Dr. Yvonne Yang and Prof. Thomas Maierhofer on clinical psychiatric data investigating potential indicators of schizophrenia. Responsible for data management, visualization, model fitting, and interpretation.
+> Worked with Yvonne Yang, MD, PhD and Thomas Maierhofer, PhD on clinical psychiatric data investigating potential indicators of schizophrenia. Responsible for data management, visualization, model fitting, and interpretation.
 
 **Volleyball Coach** | *Crossroads School, Westside VB* | Aug 2021 – present
 
@@ -54,9 +54,9 @@ A.S-T in Mathematics | Sept 2022 - June 2024
 
 ## Skills
 
-- **Programming**: R, RStudio, Positron, Python, VSCode, LaTeX, C++, Java, Git, CLI tools
-- **Data**: Cleaning & Formatting, NLP, Data Scraping, Visualizations, Model Fitting, Machine Learning, Pattern Recognition, Model Interpretation
-- **Software**: Windows & MacOS, Notion, Obsidian, Tableau, Adobe Photoshop, Discord
+- **Programming**: R, Python, SQL,  LaTeX, C++, Java, GitHub, Git, CLI tools
+- **Data**: Cleaning & Formatting, Natural Language Processing, Data Scraping, Visualizations, Interpretable Machine Learning, Pattern Recognition, Explanatory Model Analysis: Mixed Effects Models, ARIMA, Prophet, CTMC
+- **Software**: Windows & MacOS, RStudio, Positron, VSCode, Notion, Obsidian, Tableau, Adobe Photoshop, Discord
 
 ## Projects
 

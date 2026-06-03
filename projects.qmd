@@ -1,15 +1,37 @@
----
----
+# Projects
 
-# TEC-FEPPA Psychiatric Modeling
+> Here are some data science and statistics-related projects I have worked on. 
 
-Working with two doctors as a statistician to help analyze data from clinical study of healthy patients, clinical high risk, and schizophrenic patients. Study uses [18F]FEPPA as a PET Radiotracer for brain inflammation, which is associated with schizophrenia, and a trauma experience survey as the primary potential indicator. Responsibilities involve model fitting, hypothesis testing, exploring potential sub-analyses, as well as various data-related tasks (cleaning, management, sample testing).
+## Self-reported Traum and Brain Inflammation Modeling
 
-*Results coming soon~*
+*Fall 2025 - Spring 2026*
 
+I worked with Yvonne Yang, MD, PhD and Thomas Maierhofer, PhD as a statistician to help analyze data from clinical study of healthy patients, clinical high risk, and schizophrenic patients. Participants had their brain inflammation measured using \[18F\]FEPPA as a PET radiotracer and took the Traumatic Experience Checklist survey (Nijenhuis et al., 2016) which was the primary indicator of interest. Responsibilities involved model fitting, hypothesis testing, exploring potential sub-analyses, as well as various data-related tasks (cleaning, transformation, sample testing). Ultimately, I fit multiple fixed linear models and a mixed effects model accounting for repeated measures and covariate effects. These ended up showing no significant relationship between trauma experience and brain inflammation. I presented these results at the UCLA Undergraduate Research Week in May 2026.
 
-# Rent Resilience Index
+[Link to recorded presentation](https://youtu.be/D-zhXlpNerw)
+
+[Link to slide deck](files/URW_TEC-FEPPA_slides.pdf)
+
+## Executive Psychometric Mapping & Analysis
+
+*Winter 2026*
+
+Analyzed psychometric assessment profiles for over 60,000 global senior business leaders to evaluate drivers of emotional and cognitive capacity. Executed two-way ANOVA, MANOVA, Welch t-tests, and OLS linear regressions in R to isolate structural determinants of leadership traits. Quantified practical effect sizes (partial $\eta^2$ and $R^2$) to show that country of upbringing explains 10% of cognitive adaptability variance, while management tenure accounts for less than 1%. Presented findings to a panel of industry experts, highlighting actionable insights for targeted marketing strategies.
+
+[Link to report](files/PsychometricMapping_Csuite-executives_Report.pdf)
+
+## Amazon E-Commerce Behavioral Modeling
+
+*Fall 2025*
+
+Cleaned and aggregated a heterogeneous dataset of user purchase histories from 5,000+ individuals, utilizing regular expressions to cluster 1,800+ product categories into 19 umbrella metrics. Engineered user-level behavioral features, including average spending trends, order frequencies, and geographical location matrices. Tuned and evaluated Random Forest and XGBoost regression models using 5-fold cross-validation and random/grid search with the goal of predicting consumers' household size. 
+
+[Link to report](files/101c_amz_hhsize_regression_report.pdf)
+
+## DataFest 2025: Rent Resilience Index
+
+*Winter 2025*
 
 Analyzed 150K+ U.S. commercial real estate leases and federal unemployment data from metro-areas in a team of 5. Developed a rent resilience index to quantify market resilience to economic stressors like vacancy and unemployment. Presented findings to professional data scientists and industry leaders; selected as one of 15 finalists out of 80+ teams in DataFest 2025.
 
-[Link to presentation](files/D12DataDivers.pdf)
+[Link to slide deck](files/D12DataDivers.pdf)

@@ -2,37 +2,65 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "TEC-FEPPA Psychiatric Modeling",
+    "title": "Projects",
     "section": "",
-    "text": "TEC-FEPPA Psychiatric Modeling\nWorking with two doctors as a statistician to help analyze data from clinical study of healthy patients, clinical high risk, and schizophrenic patients. Study uses [18F]FEPPA as a PET Radiotracer for brain inflammation, which is associated with schizophrenia, and a trauma experience survey as the primary potential indicator. Responsibilities involve model fitting, hypothesis testing, exploring potential sub-analyses, as well as various data-related tasks (cleaning, management, sample testing).\nResults coming soon~\n\n\nRent Resilience Index\nAnalyzed 150K+ U.S. commercial real estate leases and federal unemployment data from metro-areas in a team of 5. Developed a rent resilience index to quantify market resilience to economic stressors like vacancy and unemployment. Presented findings to professional data scientists and industry leaders; selected as one of 15 finalists out of 80+ teams in DataFest 2025.\nLink to presentation"
+    "text": "Here are some data science and statistics-related projects I have worked on.\n\n\n\nFall 2025 - Spring 2026\nI worked with Yvonne Yang, MD, PhD and Thomas Maierhofer, PhD as a statistician to help analyze data from clinical study of healthy patients, clinical high risk, and schizophrenic patients. Participants had their brain inflammation measured using [18F]FEPPA as a PET radiotracer and took the Traumatic Experience Checklist survey (Nijenhuis et al., 2016) which was the primary indicator of interest. Responsibilities involved model fitting, hypothesis testing, exploring potential sub-analyses, as well as various data-related tasks (cleaning, transformation, sample testing). Ultimately, I fit multiple fixed linear models and a mixed effects model accounting for repeated measures and covariate effects. These ended up showing no significant relationship between trauma experience and brain inflammation. I presented these results at the UCLA Undergraduate Research Week in May 2026.\nLink to recorded presentation\nLink to slide deck\n\n\n\nWinter 2026\nAnalyzed psychometric assessment profiles for over 60,000 global senior business leaders to evaluate drivers of emotional and cognitive capacity. Executed two-way ANOVA, MANOVA, Welch t-tests, and OLS linear regressions in R to isolate structural determinants of leadership traits. Quantified practical effect sizes (partial \\(\\eta^2\\) and \\(R^2\\)) to show that country of upbringing explains 10% of cognitive adaptability variance, while management tenure accounts for less than 1%. Presented findings to a panel of industry experts, highlighting actionable insights for targeted marketing strategies.\nLink to report\n\n\n\nFall 2025\nCleaned and aggregated a heterogeneous dataset of user purchase histories from 5,000+ individuals, utilizing regular expressions to cluster 1,800+ product categories into 19 umbrella metrics. Engineered user-level behavioral features, including average spending trends, order frequencies, and geographical location matrices. Tuned and evaluated Random Forest and XGBoost regression models using 5-fold cross-validation and random/grid search with the goal of predicting consumers’ household size.\nLink to report\n\n\n\nWinter 2025\nAnalyzed 150K+ U.S. commercial real estate leases and federal unemployment data from metro-areas in a team of 5. Developed a rent resilience index to quantify market resilience to economic stressors like vacancy and unemployment. Presented findings to professional data scientists and industry leaders; selected as one of 15 finalists out of 80+ teams in DataFest 2025.\nLink to slide deck"
+  },
+  {
+    "objectID": "projects.html#self-reported-traum-and-brain-inflammation-modeling",
+    "href": "projects.html#self-reported-traum-and-brain-inflammation-modeling",
+    "title": "Projects",
+    "section": "",
+    "text": "Fall 2025 - Spring 2026\nI worked with Yvonne Yang, MD, PhD and Thomas Maierhofer, PhD as a statistician to help analyze data from clinical study of healthy patients, clinical high risk, and schizophrenic patients. Participants had their brain inflammation measured using [18F]FEPPA as a PET radiotracer and took the Traumatic Experience Checklist survey (Nijenhuis et al., 2016) which was the primary indicator of interest. Responsibilities involved model fitting, hypothesis testing, exploring potential sub-analyses, as well as various data-related tasks (cleaning, transformation, sample testing). Ultimately, I fit multiple fixed linear models and a mixed effects model accounting for repeated measures and covariate effects. These ended up showing no significant relationship between trauma experience and brain inflammation. I presented these results at the UCLA Undergraduate Research Week in May 2026.\nLink to recorded presentation\nLink to slide deck"
+  },
+  {
+    "objectID": "projects.html#executive-psychometric-mapping-analysis",
+    "href": "projects.html#executive-psychometric-mapping-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Winter 2026\nAnalyzed psychometric assessment profiles for over 60,000 global senior business leaders to evaluate drivers of emotional and cognitive capacity. Executed two-way ANOVA, MANOVA, Welch t-tests, and OLS linear regressions in R to isolate structural determinants of leadership traits. Quantified practical effect sizes (partial \\(\\eta^2\\) and \\(R^2\\)) to show that country of upbringing explains 10% of cognitive adaptability variance, while management tenure accounts for less than 1%. Presented findings to a panel of industry experts, highlighting actionable insights for targeted marketing strategies.\nLink to report"
+  },
+  {
+    "objectID": "projects.html#amazon-e-commerce-behavioral-modeling",
+    "href": "projects.html#amazon-e-commerce-behavioral-modeling",
+    "title": "Projects",
+    "section": "",
+    "text": "Fall 2025\nCleaned and aggregated a heterogeneous dataset of user purchase histories from 5,000+ individuals, utilizing regular expressions to cluster 1,800+ product categories into 19 umbrella metrics. Engineered user-level behavioral features, including average spending trends, order frequencies, and geographical location matrices. Tuned and evaluated Random Forest and XGBoost regression models using 5-fold cross-validation and random/grid search with the goal of predicting consumers’ household size.\nLink to report"
+  },
+  {
+    "objectID": "projects.html#datafest-2025-rent-resilience-index",
+    "href": "projects.html#datafest-2025-rent-resilience-index",
+    "title": "Projects",
+    "section": "",
+    "text": "Winter 2025\nAnalyzed 150K+ U.S. commercial real estate leases and federal unemployment data from metro-areas in a team of 5. Developed a rent resilience index to quantify market resilience to economic stressors like vacancy and unemployment. Presented findings to professional data scientists and industry leaders; selected as one of 15 finalists out of 80+ teams in DataFest 2025.\nLink to slide deck"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Charlie Kopp",
     "section": "",
-    "text": "Hello! My name’s Charlie Kopp. I am a statistics geek with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.\nI am currently studying Statistics and Data Science at UCLA, but what makes me special is my personal journey through sobriety and recovery, and experience with interpersonal communication and leadership.\nAs a young person who has battled through addiction and mental health crises and emerged on the other side with a newfound appreciation for life, my hope is to use my quantitative skills to make a positive impact on the world around me. There are more factors than ever in the world today that drive people apart and encourage isolation, however there are equivalent resources and technologies that can counter this crisis.\nUsing kindness, transparency and dedication I believe we can make this planet a place where everyone can live with dignity, comfort and joy."
+    "text": "Hello! My name’s Charlie Kopp. I am a proud nerd with a passion for mental health advocacy and highlighting the unique connections that bring humans together in mind and spirit.\nI am currently studying Statistics and Data Science at UCLA, but what makes me special is my personal journey through sobriety and recovery, and experience with interpersonal communication and leadership.\nI have battled through addiction and mental health crises, granting me a newfound appreciation for life after becoming sober at 19. Throughout my life I have witnessed the prevalence of technology used to drive outrage, encourage isolation, and destroy community. However, I firmly believe there exists another path where data and technology can be used to better humanity and bring us together.\nUsing kindness, transparency and dedication I believe we can make this planet a place where everyone can live with dignity, comfort and joy."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "Charlie Kopp",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Statistics and Data Science | Sept 2024 - June 2026\nSanta Monica College | Santa Monica, CA\nA.S-T in Mathematics | Sept 2022 - June 2024"
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. in Statistics and Data Science | Sept 2024 - June 2026\nSanta Monica College | Santa Monica, CA\nA.S.-T in Mathematics | Sept 2022 - June 2024"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "Charlie Kopp",
     "section": "Experience",
-    "text": "Experience\nData Science Intern | Honeit Software | Feb 2026 – present\n\nRefined and fit supervised prediction model for talent acquisition usage. Tasks include optimizing data workflow from server to local modeling environment, feature selection, model fitting and parameter interpretation.\n\nResearch Assistant | April 2025 – April 2026\n\nWorked with Dr. Yvonne Yang and Prof. Thomas Maierhofer on clinical psychiatric data investigating potential indicators of schizophrenia. Responsible for data management, visualization, model fitting, and interpretation.\n\nVolleyball Coach | Crossroads School, Westside VB | Aug 2021 – present\n\nCoach boys’ and girls’ volleyball teams as assistant and head coach. Responsible for developing and implementing training programs to improve team cohesiveness and performance."
+    "text": "Experience\nData Science Intern | Honeit Software | Feb 2026 – present\n\nRefined and fit supervised prediction model for talent acquisition usage. Tasks include optimizing data workflow from server to local modeling environment, feature selection, model fitting and parameter interpretation.\n\nResearch Assistant | April 2025 – April 2026\n\nWorked with Yvonne Yang, MD, PhD and Thomas Maierhofer, PhD on clinical psychiatric data investigating potential indicators of schizophrenia. Responsible for data management, visualization, model fitting, and interpretation.\n\nVolleyball Coach | Crossroads School, Westside VB | Aug 2021 – present\n\nCoach boys’ and girls’ volleyball teams as assistant and head coach. Responsible for developing and implementing training programs to improve team cohesiveness and performance."
   },
   {
     "objectID": "about.html#skills",
     "href": "about.html#skills",
     "title": "Charlie Kopp",
     "section": "Skills",
-    "text": "Skills\n\nProgramming: R, RStudio, Positron, Python, VSCode, LaTeX, C++, Java, Git, CLI tools\nData: Cleaning & Formatting, NLP, Data Scraping, Visualizations, Model Fitting, Machine Learning, Pattern Recognition, Model Interpretation\nSoftware: Windows & MacOS, Notion, Obsidian, Tableau, Adobe Photoshop, Discord"
+    "text": "Skills\n\nProgramming: R, Python, SQL, LaTeX, C++, Java, GitHub, Git, CLI tools\nData: Cleaning & Formatting, Natural Language Processing, Data Scraping, Visualizations, Interpretable Machine Learning, Pattern Recognition, Explanatory Model Analysis: Mixed Effects Models, ARIMA, Prophet, CTMC\nSoftware: Windows & MacOS, RStudio, Positron, VSCode, Notion, Obsidian, Tableau, Adobe Photoshop, Discord"
   },
   {
     "objectID": "about.html#projects",

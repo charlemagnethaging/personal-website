@@ -73,6 +73,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -294,17 +323,38 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="tec-feppa-psychiatric-modeling" class="level1">
-<h1>TEC-FEPPA Psychiatric Modeling</h1>
-<p>Working with two doctors as a statistician to help analyze data from clinical study of healthy patients, clinical high risk, and schizophrenic patients. Study uses [18F]FEPPA as a PET Radiotracer for brain inflammation, which is associated with schizophrenia, and a trauma experience survey as the primary potential indicator. Responsibilities involve model fitting, hypothesis testing, exploring potential sub-analyses, as well as various data-related tasks (cleaning, management, sample testing).</p>
-<p><em>Results coming soon~</em></p>
+<section id="projects" class="level1">
+<h1>Projects</h1>
+<blockquote class="blockquote">
+<p>Here are some data science and statistics-related projects I have worked on.</p>
+</blockquote>
+<section id="self-reported-traum-and-brain-inflammation-modeling" class="level2">
+<h2 class="anchored" data-anchor-id="self-reported-traum-and-brain-inflammation-modeling">Self-reported Traum and Brain Inflammation Modeling</h2>
+<p><em>Fall 2025 - Spring 2026</em></p>
+<p>I worked with Yvonne Yang, MD, PhD and Thomas Maierhofer, PhD as a statistician to help analyze data from clinical study of healthy patients, clinical high risk, and schizophrenic patients. Participants had their brain inflammation measured using [18F]FEPPA as a PET radiotracer and took the Traumatic Experience Checklist survey (Nijenhuis et al., 2016) which was the primary indicator of interest. Responsibilities involved model fitting, hypothesis testing, exploring potential sub-analyses, as well as various data-related tasks (cleaning, transformation, sample testing). Ultimately, I fit multiple fixed linear models and a mixed effects model accounting for repeated measures and covariate effects. These ended up showing no significant relationship between trauma experience and brain inflammation. I presented these results at the UCLA Undergraduate Research Week in May 2026.</p>
+<p><a href="https://youtu.be/D-zhXlpNerw">Link to recorded presentation</a></p>
+<p><a href="files/URW_TEC-FEPPA_slides.pdf">Link to slide deck</a></p>
 </section>
-<section id="rent-resilience-index" class="level1">
-<h1>Rent Resilience Index</h1>
+<section id="executive-psychometric-mapping-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="executive-psychometric-mapping-analysis">Executive Psychometric Mapping &amp; Analysis</h2>
+<p><em>Winter 2026</em></p>
+<p>Analyzed psychometric assessment profiles for over 60,000 global senior business leaders to evaluate drivers of emotional and cognitive capacity. Executed two-way ANOVA, MANOVA, Welch t-tests, and OLS linear regressions in R to isolate structural determinants of leadership traits. Quantified practical effect sizes (partial <span class="math inline">\(\eta^2\)</span> and <span class="math inline">\(R^2\)</span>) to show that country of upbringing explains 10% of cognitive adaptability variance, while management tenure accounts for less than 1%. Presented findings to a panel of industry experts, highlighting actionable insights for targeted marketing strategies.</p>
+<p><a href="files/PsychometricMapping_Csuite-executives_Report.pdf">Link to report</a></p>
+</section>
+<section id="amazon-e-commerce-behavioral-modeling" class="level2">
+<h2 class="anchored" data-anchor-id="amazon-e-commerce-behavioral-modeling">Amazon E-Commerce Behavioral Modeling</h2>
+<p><em>Fall 2025</em></p>
+<p>Cleaned and aggregated a heterogeneous dataset of user purchase histories from 5,000+ individuals, utilizing regular expressions to cluster 1,800+ product categories into 19 umbrella metrics. Engineered user-level behavioral features, including average spending trends, order frequencies, and geographical location matrices. Tuned and evaluated Random Forest and XGBoost regression models using 5-fold cross-validation and random/grid search with the goal of predicting consumers’ household size.</p>
+<p><a href="files/101c_amz_hhsize_regression_report.pdf">Link to report</a></p>
+</section>
+<section id="datafest-2025-rent-resilience-index" class="level2">
+<h2 class="anchored" data-anchor-id="datafest-2025-rent-resilience-index">DataFest 2025: Rent Resilience Index</h2>
+<p><em>Winter 2025</em></p>
 <p>Analyzed 150K+ U.S. commercial real estate leases and federal unemployment data from metro-areas in a team of 5. Developed a rent resilience index to quantify market resilience to economic stressors like vacancy and unemployment. Presented findings to professional data scientists and industry leaders; selected as one of 15 finalists out of 80+ teams in DataFest 2025.</p>
-<p><a href="files/D12DataDivers.pdf">Link to presentation</a></p>
+<p><a href="files/D12DataDivers.pdf">Link to slide deck</a></p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
