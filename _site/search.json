@@ -60,7 +60,7 @@
     "href": "about.html#skills",
     "title": "Charlie Kopp",
     "section": "Skills",
-    "text": "Skills\n\nProgramming: R, Python, SQL, LaTeX, C++, Java, GitHub, Git, CLI tools\nData: Cleaning & Formatting, Natural Language Processing, Data Scraping, Visualizations, Interpretable Machine Learning, Pattern Recognition, Explanatory Model Analysis: Mixed Effects Models, ARIMA, Prophet, CTMC\nSoftware: Windows & MacOS, RStudio, Positron, VSCode, Notion, Obsidian, Tableau, Adobe Photoshop, Discord"
+    "text": "Skills\n\nProgramming: R, Python, SQL, Quarto, LaTeX, C++, Java, GitHub, Git, CLI tools\nData: Cleaning & Formatting, Natural Language Processing, Data Scraping, Visualizations, Database Engineering and Management\nModeling and Machine Learning: Interpretable Machine Learning (Variable Importance, Cetus Paribum Plots, ICE plots), Optimization, Pattern Recognition, Explanatory Model Analysis (Mixed Effects Models, ARIMA, Prophet, CTMC)\nSoftware: Windows & MacOS, RStudio, Positron, VSCode, Notion, Obsidian, Tableau, Adobe Photoshop, Discord"
   },
   {
     "objectID": "about.html#projects",
